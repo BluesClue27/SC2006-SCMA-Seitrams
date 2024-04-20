@@ -31,10 +31,10 @@ I was in charge of creating some of the UI pages for the user. On top of having 
 ## Contributors
 I could not have completed this module without the help of my wonderful group mates. Listed as follows in no particular order: 
 
-@BluesClue27 -> Frontend; Slides; Overall project management
-@Russell-0508 -> Frontend; Live demo
-@jeengg -> Backend; CalorieNinjaAPI; Slides
-@zaphrode -> Frontend; Testcases; SRS
-@Rabornkraken -> Backend; Testcases; SRS
-@Hungry-yy -> Backend; OpenAI API; Live demo
+- @BluesClue27 -> Frontend; Slides; Overall project management
+- @Russell-0508 -> Frontend; Live demo
+- @jeengg -> Backend; CalorieNinjaAPI; Slides
+- @zaphrode -> Frontend; Testcases; SRS
+- @Rabornkraken -> Backend; Testcases; SRS
+- @Hungry-yy -> Backend; OpenAI API; Live demo
 
